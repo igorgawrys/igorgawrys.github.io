@@ -1,1 +1,1 @@
-<iframe src="https://igorgawrys.ct8.pl/wwwstrona/"></iframe>
+<iframe src="https://www.w3schools.com"></iframe>
